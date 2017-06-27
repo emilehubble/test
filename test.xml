@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Test</title>
+    <link>hubbleafrica.com</link>
+    <description>me</description>
+    <language>en-us</language>
+    <managingEditor>emile@hubbleafrica.com</managingEditor>
+    <webMaster>emile@hubbleafrica.com</webMaster>
+    <copyright>nnn</copyright>
+    <image>
+      <title>Test</title>
+      <link>hubbleafrica.com</link>
+      <url>https://www.google.co.za/imgres?imgurl=https%3A%2F%2Fi.vimeocdn.com%2Fportrait%2F58832_300x300&amp;imgrefurl=https%3A%2F%2Fvimeo.com%2Fuser2082250&amp;docid=L7pp2GXzszKRoM&amp;tbnid=XWXPqrX1RFJiaM%3A&amp;vet=10ahUKEwi15b_T593UAhXmKcAKHVtPAKAQMwhUKAAwAA..i&amp;w=300&amp;h=300&amp;bih=681&amp;biw=1517&amp;q=test&amp;ved=0ahUKEwi15b_T593UAhXmKcAKHVtPAKAQMwhUKAAwAA&amp;iact=mrc&amp;uact=8</url>
+      <width>100</width>
+      <height>100</height>
+    </image>
+    <item>
+      <title>TestItem</title>
+      <pubDate>Tue, 27 Jun 2017 12:26:21 +0200</pubDate>
+      <description><![CDATA[This is the test description]]></description>
+    </item>
+  </channel>
+</rss>
